@@ -33,7 +33,7 @@
 
 
 
-## Useful Web Site :
+## Useful Web Site 
     * [Watson IoT Academy](https://www.iot-academy.info/)
     * [To learn JavaScript](http://www.w3schools.com/js/)
     * [NodeRED](http://nodered.org/docs/)
