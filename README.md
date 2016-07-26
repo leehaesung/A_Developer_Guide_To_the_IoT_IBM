@@ -3,8 +3,9 @@
 ![IBM Watson IoT](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/01_Lecture_Notes/ImageFiles/IBM_Watson_IoT.png)
 
 # Contents
+
 ## Week 01. Introduction to the course
- * Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
+* Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
    * About this course
    * What is the Internet of Things?
 
@@ -18,7 +19,7 @@
 
 
 ## Week 03. Rapid application development on a Raspberry Pi
- * This unit looks at how to add a device to your solution. Creating an application on a Raspberry Pi and establishing secure, trusted communication between your cloud application and devices
+* This unit looks at how to add a device to your solution. Creating an application on a Raspberry Pi and establishing secure, trusted communication between your cloud application and devices
     * Raspberry Pi and SenseHAT
     * Rapid Application Development with NodeRED on a Raspberry Pi
     * Introduction to the Watson Internet of Things Platform
@@ -26,9 +27,11 @@
 
 
 ## Week 04. Lower level programming for the Internet of Things
- * Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
+* Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
     * Watson IoT APIs
     * MQTT
+          * IoT 101 Network Diagram 
+           ![IOT-101-Network-Diagram](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/01_Lecture_Notes/ImageFiles/IOT-101-Network-Diagram-FINAL-01.png)
     * Deploying Applications to Bluemix
 
 
