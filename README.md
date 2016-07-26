@@ -34,5 +34,10 @@ Week 04. Lower level programming for the Internet of Things
 
 * Useful Web Site :
     * [Watson IoT Academy](https://www.iot-academy.info/)
+    * [To learn JavaScript](http://www.w3schools.com/js/)
+    * [NodeRED](http://nodered.org/docs/)
+    * [Node.js](https://nodejs.org)
+    * [Python.org](https://www.python.org)
+    
 
 
