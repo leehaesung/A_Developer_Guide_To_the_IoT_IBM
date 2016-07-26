@@ -34,16 +34,15 @@
 
 
 ## Useful Web Site
-
-    * [Watson IoT Academy](https://www.iot-academy.info/)
-    * [To learn JavaScript](http://www.w3schools.com/js/)
-    * [NodeRED](http://nodered.org/docs/)
-    * [Node.js](https://nodejs.org)
-    * [Python.org](https://www.python.org)
-    * [IBM Bluemix](https://www.bluemix.net)
-    * [Bluemix Platform as a Service functionality](http://docs.cloudfoundry.org)
-    * [CloudFoundry Command Line Interface tool](https://github.com/cloudfoundry/cli/releases)
-    * [SenseHAT Python API](http://pythonhosted.org/sense-hat/)
+* [Watson IoT Academy](https://www.iot-academy.info/)
+* [To learn JavaScript](http://www.w3schools.com/js/)
+* [NodeRED](http://nodered.org/docs/)
+* [Node.js](https://nodejs.org)
+* [Python.org](https://www.python.org)
+* [IBM Bluemix](https://www.bluemix.net)
+* [Bluemix Platform as a Service functionality](http://docs.cloudfoundry.org)
+* [CloudFoundry Command Line Interface tool](https://github.com/cloudfoundry/cli/releases)
+* [SenseHAT Python API](http://pythonhosted.org/sense-hat/)
     
     
     
