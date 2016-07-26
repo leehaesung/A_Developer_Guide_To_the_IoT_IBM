@@ -21,6 +21,8 @@
 ## Week 03. Rapid application development on a Raspberry Pi
 * This unit looks at how to add a device to your solution. Creating an application on a Raspberry Pi and establishing secure, trusted communication between your cloud application and devices
     * Raspberry Pi and SenseHAT
+          * [Schematic of Raspberry Pi2](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/03_RaspberryPi2/Raspberry-Pi-B-Plus-V1.2-Schematics.pdf)
+          * [Schematic of SenseHAT](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/04_Pi_Sense_HAT/Sense-HAT-V1_0.pdf) 
     * Rapid Application Development with NodeRED on a Raspberry Pi
     * Introduction to the Watson Internet of Things Platform
     * Controlling a device
