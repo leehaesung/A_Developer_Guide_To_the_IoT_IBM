@@ -6,14 +6,20 @@
 Week 01. Introduction to the course
 
 
+
 Week 02. Rapid application development in the cloud
 
 
+
 Week 03. Rapid application development on a Raspberry Pi
+
 
 
 Week 04. Lower level programming for the Internet of Things
 
 
 
-* [Watson IoT Academy](https://www.iot-academy.info/)
+* Useful Web Site :
+  * [Watson IoT Academy](https://www.iot-academy.info/)
+
+
