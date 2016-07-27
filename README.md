@@ -23,7 +23,19 @@
 ## Week 02. Rapid application development in the cloud
  * An Internet of Things solution usually requires a back-end server to receive and process data coming from sensors. Cloud platforms allow new solutions to be created and deployed very rapidly without having to worry about how to host the application. This series of lessons introduces you to a cloud based Platform as a Service and an open source rapid application development environment called NodeRED.
     * Introduction to a Platform as a Service - IBM Bluemix
+        * Introduction to IBM Bluemix - Agenda 27 sec
+        * Overview of Cloud Computing3 min
+        * What is IBM Bluemix? 4 min
+        * A tour of IBM Bluemix 8 min
+        * IBM Bluemix Summary 35 sec
+        * Learning module summary: Introduction to Platform as a Service - IBM Bluemix10 min
+
     * Rapid application development for Internet of Things
+        * Introduction to NodeRED - 111 min
+        * Deploy NodeRED to Bluemix using a Boilerplate - step by step 10 min
+        
+
+
     * NodeRED function node
     * Additional NodeRED nodes
 
