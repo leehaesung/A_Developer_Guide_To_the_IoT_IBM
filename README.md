@@ -9,8 +9,16 @@
 ## Week 01. Introduction to the course
 * Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
    * About this course
-   * What is the Internet of Things?
+        * Welcome to A developer's guide to the Internet of Things 3 min
+        * Course Prerequisites 3 min
+        * Summary of the lessons 4 min
+        * What practical work is in this course? 2 min
+        * Learning module summary: About this course10 min
 
+   * What is the Internet of Things?
+        * Overview of Internet of Things6 min
+        * Quiz: IoT Quiz5 questions
+        * Learning module summary: What is the Internet of Things? 10 min
 
 ## Week 02. Rapid application development in the cloud
  * An Internet of Things solution usually requires a back-end server to receive and process data coming from sensors. Cloud platforms allow new solutions to be created and deployed very rapidly without having to worry about how to host the application. This series of lessons introduces you to a cloud based Platform as a Service and an open source rapid application development environment called NodeRED.
