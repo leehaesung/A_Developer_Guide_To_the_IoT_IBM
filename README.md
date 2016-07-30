@@ -61,6 +61,7 @@
 
 
 ## Useful Web Site
+* [YouTube: How It Works: Internet of Things](https://youtu.be/QSIPNhOiMoE)
 * [Watson IoT Academy](https://www.iot-academy.info/)
 * [To learn JavaScript](http://www.w3schools.com/js/)
 * [NodeRED](http://nodered.org/docs/)
