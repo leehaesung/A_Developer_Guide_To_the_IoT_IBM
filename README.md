@@ -24,7 +24,7 @@
  * An Internet of Things solution usually requires a back-end server to receive and process data coming from sensors. Cloud platforms allow new solutions to be created and deployed very rapidly without having to worry about how to host the application. This series of lessons introduces you to a cloud based Platform as a Service and an open source rapid application development environment called NodeRED.
     * Introduction to a Platform as a Service - IBM Bluemix
         * Introduction to IBM Bluemix - Agenda 27 sec
-        * Overview of Cloud Computing3 min
+        * Overview of Cloud Computing 3 min
         * What is IBM Bluemix? 4 min
         * A tour of IBM Bluemix 8 min
         * IBM Bluemix Summary 35 sec
