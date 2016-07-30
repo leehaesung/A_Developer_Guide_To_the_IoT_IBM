@@ -64,6 +64,8 @@
 * [Watson IoT Academy](https://www.iot-academy.info/)
 * [To learn JavaScript](http://www.w3schools.com/js/)
 * [NodeRED](http://nodered.org/docs/)
+* [Node-RED
+* [A visual tool for wiring the Internet of Things](http://nodered.org/?cm_mc_uid=06583862420914669164974&cm_mc_sid_50200000=1469855535)
 * [Node.js](https://nodejs.org)
 * [Python.org](https://www.python.org)
 * [IBM Bluemix](https://www.bluemix.net)
