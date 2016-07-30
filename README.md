@@ -70,6 +70,20 @@
 * [Bluemix Platform as a Service functionality](http://docs.cloudfoundry.org)
 * [CloudFoundry Command Line Interface tool](https://github.com/cloudfoundry/cli/releases)
 * [SenseHAT Python API](http://pythonhosted.org/sense-hat/)
+* [IoT on Raspberry Pi By IBM](http://www.ibm.com/internet-of-things/ecosystem/devices/raspberry-pi/)
+
+## Useful GiTHub of using the IBM BlueMix with Raspberry Pi 
+* [Connecting Raspberry Pi devices to the IBM Internet of Things Foundation](https://github.com/ibm-messaging/iot-raspberrypi)
+* [IoT Demo: Use the IBM Watson Speech to Text service to make a Raspberry Pi speak the current time and weather](https://github.com/watson-developer-cloud/raspberry-pi-time-weather-demo)
+* [Demo de una aplicación de IoT usando la plataforma IBM IoT Foundation, una Raspberry Pi y Python](https://github.com/betabeers/ibm-iot-raspberry-python)
+* [Raspberry Pi, IBM IoT Watson, and Node.js Experiments](https://github.com/edm00se/iot-pi)
+* [Connect Raspberry Pi to IBM Internet of Things in Bluemix](https://github.com/hansb001/IoTRaspberryPiBluemix)
+* [C++0x sample for connecting Raspberry Pi Model B devices to the IBM Internet of Things Cloud 'Quickstart' service.](https://github.com/nweedon/iot-raspberrypi-0x)
+* [Coursera Raspberry Pi IoT IBM Bluemix
+](https://github.com/juanjordaan/courseraIoT)
+* [tsl2561 light sensor on a raspberry pi feeding sensordata to IBM IoT platform written in C](https://github.com/pmvester/tsl2561)
+* [A Tutorial how to use a bluetooth device on a Raspberry PI to send proximity data to IBM Watson IoT Platform to let a car switch an appliance on and off](https://github.com/joetriskaide/car-meets-home)
+
     
     
     
