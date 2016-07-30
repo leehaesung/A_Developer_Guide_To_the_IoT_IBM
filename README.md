@@ -72,6 +72,7 @@
 * [CloudFoundry Command Line Interface tool](https://github.com/cloudfoundry/cli/releases)
 * [SenseHAT Python API](http://pythonhosted.org/sense-hat/)
 * [IoT on Raspberry Pi By IBM](http://www.ibm.com/internet-of-things/ecosystem/devices/raspberry-pi/)
+* [Raspberry Pi: Find IoT projects at Raspberry Pi.](https://www.raspberrypi.org/?s=IoT&cm_mc_uid=06583862420914669164974&cm_mc_sid_50200000=1469855535)
 
 ## Useful GiTHub of using the IBM BlueMix with Raspberry Pi 
 * [Connecting Raspberry Pi devices to the IBM Internet of Things Foundation](https://github.com/ibm-messaging/iot-raspberrypi)
@@ -88,5 +89,3 @@
     
     
   < END >  
-
-
