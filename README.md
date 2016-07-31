@@ -10,16 +10,16 @@
 ## Week 01. Introduction to the course
 * Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
    * About this course
-        * Welcome to A developer's guide to the Internet of Things 3 min
-        * Course Prerequisites 3 min
-        * Summary of the lessons 4 min
-        * What practical work is in this course? 2 min
-        * Learning module summary: About this course
+        * [Welcome to A developer's guide to the Internet of Things 3 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/01_WelcomeToAdevelopersGuideToTheIoT_3min.mp4)
+        * [Course Prerequisites 3 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/02_Course_Prerequisite_3min.mp4)
+        * [Summary of the lessons 4 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/03_SummaryOfTheLessons_4min.mp4)
+        * [What practical work is in this course? 2 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/04_WhatPracticalWorkIsinThisCourse2min.mp4)
+        * [Learning module summary: About this course](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/05_Learning%20ModuleSummary_AboutThisCourse_Coursera.pdf)
 
    * What is the Internet of Things?
-        * Overview of Internet of Things 6 min
-        * Quiz: IoT Quiz5 questions
-        * Learning module summary: What is the Internet of Things? 10 min
+        * [Overview of Internet of Things 6 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/05_Overview_IoT6min.mp4)
+        * [Quiz: IoT Quiz5 questions](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/Week01_Quiz_Coursera_100Passed.pdf)
+        * [Learning module summary: What is the Internet of Things? 10 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/08_Learning%20module%20summary_%20What%20is%20the%20Internet%20of%20Things_%20_%20Coursera.pdf)
 
 ## Week 02. Rapid application development in the cloud
  * An Internet of Things solution usually requires a back-end server to receive and process data coming from sensors. Cloud platforms allow new solutions to be created and deployed very rapidly without having to worry about how to host the application. This series of lessons introduces you to a cloud based Platform as a Service and an open source rapid application development environment called NodeRED.
