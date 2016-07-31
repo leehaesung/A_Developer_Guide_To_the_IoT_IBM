@@ -4,8 +4,10 @@
 Control the same hardware as used in space...build your very own [Astro](https://astro-pi.org/) Pi with the new Raspberry Pi Sense HAT! The Raspberry Pi Sense HAT is attached on top of the Raspberry Pi via the 40 GPIO pins to create an ‘Astro Pi’. The Sense HAT has several integrated circuit based sensors can be used for many different types of experiments, applications, and even games. And it's being used in conjunction with the Raspberry Pi Foundation to perform science experiments aboard the International Space Station (ISS)!
 
 ### The sensors enable you to read:
-* Orientation (yaw, pitch & roll) via an accelerometer, 3D gyroscope, and magnetometer
-* Pressure
+* Gyroscope
+* Accelerometer
+* Magnetometer
+* Barometric pressure
 * Humidity
 * Temperature
 
@@ -15,7 +17,23 @@ The 8x8 LED Matrix enables you to display the data from the various sensors, it 
 
 Writing programs for the Sense HAT is very simple with a Python library available to get started quickly and easily. For a truly out of world projects check out the [AstroPi website](https://astro-pi.org/), containing a host of ideas and instructions.
 
-### To Install:
+### To Install Python Library of Pi Sense HAT
+* Install the Sense HAT software by opening a Terminal window and entering the following commands (while connected to the Internet):
+
+``````````````````````````````
+sudo apt-get update
+sudo apt-get install sense-hat
+sudo reboot
+``````````````````````````````
+
+* Hello world example:
+``````````````````````````````
+from sense_hat import SenseHat
+sense = SenseHat()
+sense.show_message("Hello world!")
+``````````````````````````````
+
+### To Install Bash:
 * Connect your Sense HAT to the Raspberry Pi via the 40 GPIO Pins
 * Open up a terminal and run the following command:
 
