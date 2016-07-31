@@ -15,6 +15,12 @@
         * Summary of the lessons 4 min
         * What practical work is in this course? 2 min
         * Learning module summary: About this course 10 min
+              * You reached the end of this learning module. You now:
+              
+                    * Have high level awareness of what you will learn within the course
+                    * Have a high level awareness of the hands on work within the course
+                    * Know about the requirements needed to complete the course including the hardware, software and details of prerequisite skills required to complete the programming assignments
+
 
    * What is the Internet of Things?
         * Overview of Internet of Things 6 min
