@@ -44,6 +44,7 @@ The Raspberry Pi Sense HAT is compatible with the Raspberry Pi 3, [Raspberry Pi 
 * Product Dimensions: 65.1mm x 56.6mm x 13.9mm / 2.6" x 2.2" x 0.5"
 * Product Weight: 20.4g / 0.7oz
 * Visit the [Python Library.](http://pythonhosted.org/sense-hat/)
+* [Official GitHub](https://github.com/leehaesung/python-sense-hat)
 
 
 < END >
