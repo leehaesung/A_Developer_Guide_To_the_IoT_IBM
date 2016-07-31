@@ -39,7 +39,7 @@
         * [Learning module summary: Rapid application development for Internet of Things 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/08_Learning%20module%20summary_%20What%20is%20the%20Internet%20of%20Things_%20_%20Coursera.pdf)
     
     * NodeRED function node
-        * [The NodeRED Function node part 1 6 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/14_The%20NodeRED%20Function%20node%20part_1_06min.mp4)
+        * [The NodeRED Function node part 1 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/14_The%20NodeRED%20Function%20node%20part_1_06min.mp4)
         * [Function node - step by step 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/16_Function%20node%20-%20step%20by%20step_10%20min.pdf)
         * [The NodeRED Function node part 2 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/15_The%20NodeRED%20Function%20node%20part2_6min.mp4)
         * [The NodeRED Function node part 3 5 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/16_The%20NodeRED%20Function%20node%20part3_5min.mp4)
