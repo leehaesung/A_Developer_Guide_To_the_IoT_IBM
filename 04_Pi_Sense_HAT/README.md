@@ -3,6 +3,11 @@
 ## DESCRIPTION
 Control the same hardware as used in space...build your very own [Astro](https://astro-pi.org/) Pi with the new Raspberry Pi Sense HAT! The Raspberry Pi Sense HAT is attached on top of the Raspberry Pi via the 40 GPIO pins to create an ‘Astro Pi’. The Sense HAT has several integrated circuit based sensors can be used for many different types of experiments, applications, and even games. And it's being used in conjunction with the Raspberry Pi Foundation to perform science experiments aboard the International Space Station (ISS)!
 
+### Appearance of Pi Sense HAT 
+![01_Pi_Sense_HAT.jp](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/04_Pi_Sense_HAT/ImageFiles/01_Pi_Sense_HAT.jpg)
+![02_Pi_Sense_HAT.jp
+](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/04_Pi_Sense_HAT/ImageFiles/02_Pi_Sense_HAT.jpg)
+
 ### The sensors enable you to read:
 * Gyroscope
 * Accelerometer
