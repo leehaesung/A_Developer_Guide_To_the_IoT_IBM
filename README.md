@@ -13,10 +13,10 @@
         * Course Prerequisites 3 min
         * Summary of the lessons 4 min
         * What practical work is in this course? 2 min
-        * Learning module summary: About this course10 min
+        * Learning module summary: About this course 10 min
 
    * What is the Internet of Things?
-        * Overview of Internet of Things6 min
+        * Overview of Internet of Things 6 min
         * Quiz: IoT Quiz5 questions
         * Learning module summary: What is the Internet of Things? 10 min
 
@@ -28,27 +28,66 @@
         * What is IBM Bluemix? 4 min
         * A tour of IBM Bluemix 8 min
         * IBM Bluemix Summary 35 sec
-        * Learning module summary: Introduction to Platform as a Service - IBM Bluemix10 min
+        * Learning module summary: Introduction to Platform as a Service - IBM Bluemix 10 min
 
     * Rapid application development for Internet of Things
         * Introduction to NodeRED - 111 min
         * Deploy NodeRED to Bluemix using a Boilerplate - step by step 10 min
-        
-
-
+        * Introduction to NodeRED - 27 min
+        * Adding a new node - step by step 10 min
+        * Learning module summary: Rapid application development for Internet of Things 10 min
+    
     * NodeRED function node
+        * The NodeRED Function node part 16 min
+        * Function node - step by step 10 min
+        * The NodeRED Function node part 26 min
+        * The NodeRED Function node part 35 min
+        * Making packages available to the function node - step by step10 min
+        * Quiz: Using the function node 5 questions
+        * Submitting your first assignment 10 min 
+        * Programming Assignment: Your First NodeRED application 3h
+        * Learning module summary: NodeRED function node 10 min
+        
     * Additional NodeRED nodes
-
+        * NodeRED Additional node part 16 min
+        * NodeRED Additional node part 26 min
+        * Template node sample flow 10 min
+        * NodeRED Additional node part 36 min
+        * Controlling a node using input data 10 min
+        * NodeRED Additional node part 46 min
+        * Programming Assignment: NodeRED application3h
+        * Learning module summary: Additional NodeRED nodes 10 min
 
 ## Week 03. Rapid application development on a Raspberry Pi
 * This unit looks at how to add a device to your solution. Creating an application on a Raspberry Pi and establishing secure, trusted communication between your cloud application and devices
     * Raspberry Pi and SenseHAT
+          * A quick look at devices and sensor options 6 min
+          * Setting up a Raspberry Pi and Raspberry Pi Sense Hat 9 min
+          * Setting up your Raspberry Pi - step by step 10 min
+          * Extra resource – (for Windows) Install the Raspbian Jessie OS on an SD Card 1 min
+          * Learning module summary: Raspberry Pi and SenseHAT 10 min
           * [Schematic of Raspberry Pi2](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/03_RaspberryPi2/Raspberry-Pi-B-Plus-V1.2-Schematics.pdf)
           * [Schematic of SenseHAT](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/04_Pi_Sense_HAT/Sense-HAT-V1_0.pdf) 
+          
     * Rapid Application Development with NodeRED on a Raspberry Pi
-    * Introduction to the Watson Internet of Things Platform
-    * Controlling a device
+          * NodeRED on Raspberry Pi part 15 min
+          * NodeRED on Raspberry Pi part 26 min
+          * QuickStart flow - step by step 10 min
+          * Programming Assignment: QuickStart flow on Raspberry Pi 3h
+          * Learning module summary: Rapid Application Development with NodeRED on a Raspberry Pi 10 min
 
+    * Introduction to the Watson Internet of Things Platform
+          * Watson Internet of Things platform 5 min
+          * Devices, Applications and Gateways part 16 min
+          * Devices, Applications and Gateways part 27 min
+          * Quiz: Using the NodeRED flow editor with your own Watson IoT platform 5 questions
+          * Learning module summary: Introduction to the Watson Internet of Things Platform 10 min
+
+    * Controlling a device
+          * Sending commands to a device 4 min
+          * SenseHAT and SenseHAT simulator nodes in NodeRED 3 min
+          * Programming Assignment: End-to-end scenario 3h
+          * Learning module summary: Controlling the device 10 min
 
 ## Week 04. Lower level programming for the Internet of Things
 * Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
