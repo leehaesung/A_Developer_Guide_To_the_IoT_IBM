@@ -7,6 +7,8 @@ Control the same hardware as used in space...build your very own [Astro](https:/
 ![01_Pi_Sense_HAT.jp](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/04_Pi_Sense_HAT/ImageFiles/01_Pi_Sense_HAT.jpg)
 ![02_Pi_Sense_HAT.jp
 ](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/04_Pi_Sense_HAT/ImageFiles/02_Pi_Sense_HAT.jpg)
+* [Schematic of SenseHAT](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/04_Pi_Sense_HAT/Sense-HAT-V1_0.pdf)
+* [Schematic of Raspberry Pi2](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/03_RaspberryPi2/Raspberry-Pi-B-Plus-V1.2-Schematics.pdf)
 
 ### The sensors enable you to read:
 * Gyroscope
