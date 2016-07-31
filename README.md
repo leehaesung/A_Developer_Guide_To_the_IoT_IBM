@@ -32,30 +32,30 @@
         * [Learning module summary: Introduction to Platform as a Service - IBM Bluemix 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/11_Learning%20module%20summary-%20Introduction%20to%20Platform%20as%20a%20Service%20-%20IBM%20Bluemix_10%20min.pdf)
 
     * Rapid application development for Internet of Things
-        * [Introduction to NodeRED-1 11 min (mp4)]()
+        * [Introduction to NodeRED-1 11 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/06_IntroductionToIBMBluemixAgenda_27sec.mp4)
         * [Deploy NodeRED to Bluemix using a Boilerplate - step by step 10 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/12_Deploy%20NodeRED%20to%20Bluemix%20using%20a%20Boilerplate_step%20by%20step_10min.mp4)
         * [Introduction to NodeRED-2 7 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/13_Introduction%20to%20NodeRED_7min.mp4)
         * [Adding a new node - step by step 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/14_Adding%20a%20new%20node%20-%20step%20by%20step%2010%20min.pdf)
-        * [Learning module summary: Rapid application development for Internet of Things 10 min (pdf)]
+        * [Learning module summary: Rapid application development for Internet of Things 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/08_Learning%20module%20summary_%20What%20is%20the%20Internet%20of%20Things_%20_%20Coursera.pdf)
     
     * NodeRED function node
-        * The NodeRED Function node part 16 min
-        * Function node - step by step 10 min
-        * The NodeRED Function node part 26 min
-        * The NodeRED Function node part 35 min
-        * Making packages available to the function node - step by step10 min
+        * [The NodeRED Function node part 1 6 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/14_The%20NodeRED%20Function%20node%20part_1_06min.mp4)
+        * [Function node - step by step 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/16_Function%20node%20-%20step%20by%20step_10%20min.pdf)
+        * [The NodeRED Function node part 2 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/15_The%20NodeRED%20Function%20node%20part2_6min.mp4)
+        * [The NodeRED Function node part 3 5 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/16_The%20NodeRED%20Function%20node%20part3_5min.mp4)
+        * [Making packages available to the function node - step by step 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/17_Making%20packages%20available%20to%20the%20function%20node%20-%20step%20by%20step10min.pdf)
         * Quiz: Using the function node 5 questions
         * Submitting your first assignment 10 min 
         * Programming Assignment: Your First NodeRED application 3h
-        * Learning module summary: NodeRED function node 10 min
+        * [Learning module summary: NodeRED function node 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/20_Learning%20module%20summary_%20NodeRED%20function%20node%20_%20Coursera.pdf)
         
     * Additional NodeRED nodes
-        * NodeRED Additional node part 16 min
-        * NodeRED Additional node part 26 min
-        * Template node sample flow 10 min
-        * NodeRED Additional node part 36 min
-        * Controlling a node using input data 10 min
-        * NodeRED Additional node part 46 min
+        * [NodeRED Additional node part 1 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/17_NodeRED%20Additional%20node%20part1_6min.mp4)
+        * [NodeRED Additional node part 2 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/18_NodeRED%20Additional%20node%20part2_6min.mp4)
+        * [Template node sample flow 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/21_Template%20node%20sample%20flow_10min.pdf)
+        * [NodeRED Additional node part 3 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/19_NodeRED%20Additional%20node%20part3_6min.mp4)
+        * [Controlling a node using input data 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/22_Controlling%20a%20node%20using%20input%20data_10min.pdf)
+        * [NodeRED Additional node part 4 6 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/20_NodeRED%20Additional%20node%20part4_6min.mp4)
         * Programming Assignment: NodeRED application3h
         * Learning module summary: Additional NodeRED nodes 10 min
 
