@@ -27,11 +27,15 @@ sudo reboot
 ``````````````````````````````
 
 * Hello world example:
+
 ``````````````````````````````
 from sense_hat import SenseHat
 sense = SenseHat()
 sense.show_message("Hello world!")
 ``````````````````````````````
+See the [API reference](https://pythonhosted.org/sense-hat/api/) for full documentation of the library's functions. See [examples](https://github.com/RPi-Distro/python-sense-hat/blob/master/examples/README.md).
+
+
 
 ### To Install Bash:
 * Connect your Sense HAT to the Raspberry Pi via the 40 GPIO Pins
