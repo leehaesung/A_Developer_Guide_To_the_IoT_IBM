@@ -1,6 +1,9 @@
 # A developer's guide to the Internet of Things (IoT) By IBM
 
 ### About this Course
+* [Go to the Coursera (A developer's guide to the Internet of Things (IoT)
+by IBM)](https://www.coursera.org/learn/developer-iot/home/welcome)
+
 The Internet of Things (IoT) is an area of rapid growth and opportunity. Technical innovations in networks, sensors and applications, coupled with the advent of 'smart machines' have resulted in a huge diversity of devices generating all kinds of structured and unstructured data that needs to be processed somewhere.  Collecting and understanding that data, combining it with other sources of information and putting it to good  use can be achieved by using connectivity, analytical and cognitive services now available on the cloud, allowing development and deployment of solutions to be achieved faster and more efficiently than ever before.
 
 This course is an entry level introduction to developing and deploying solutions for the Internet of Things. It will focus on capturing data from a trusted device and sending the data to a cloud platform where it can be exploited by the many services available. You will explore all the steps required to create a basic IoT solution using a popular device, the Raspberry Pi, and a trial version of the cloud-based IBM Watson IoT Platform. 
