@@ -40,6 +40,6 @@ The Raspberry Pi Sense HAT is compatible with the Raspberry Pi 3, [Raspberry Pi 
 * 8x8 LED matrix display
 * Small 5 button joystick
 
-### For product support, replacement parts and warranty for Raspberry Pi products visit the Raspberry Pi Help Page or contact the Pi Foundation directly on their forums.
-
-
+### For product support, replacement parts and warranty for [Raspberry Pi products visit the Raspberry Pi Help Page](https://www.raspberrypi.org/products/sense-hat/) or contact the [Pi Foundation directly on their forums](https://www.raspberrypi.org/forums/).
+* Product Dimensions: 65.1mm x 56.6mm x 13.9mm / 2.6" x 2.2" x 0.5"
+* Product Weight: 20.4g / 0.7oz
