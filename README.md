@@ -10,33 +10,33 @@
 ## Week 01. Introduction to the course
 * Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
    * About this course
-        * [Welcome to A developer's guide to the Internet of Things 3 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/01_WelcomeToAdevelopersGuideToTheIoT_3min.mp4)
-        * [Course Prerequisites 3 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/02_Course_Prerequisite_3min.mp4)
-        * [Summary of the lessons 4 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/03_SummaryOfTheLessons_4min.mp4)
-        * [What practical work is in this course? 2 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/04_WhatPracticalWorkIsinThisCourse2min.mp4)
-        * [Learning module summary: About this course](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/05_Learning%20ModuleSummary_AboutThisCourse_Coursera.pdf)
+        * [Welcome to A developer's guide to the Internet of Things 3 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/01_WelcomeToAdevelopersGuideToTheIoT_3min.mp4)
+        * [Course Prerequisites 3 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/02_Course_Prerequisite_3min.mp4)
+        * [Summary of the lessons 4 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/03_SummaryOfTheLessons_4min.mp4)
+        * [What practical work is in this course? 2 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/04_WhatPracticalWorkIsinThisCourse2min.mp4)
+        * [Learning module summary: About this course (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/05_Learning%20ModuleSummary_AboutThisCourse_Coursera.pdf)
 
    * What is the Internet of Things?
-        * [Overview of Internet of Things 6 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/05_Overview_IoT6min.mp4)
-        * [Quiz: IoT Quiz5 questions](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/Week01_Quiz_Coursera_100Passed.pdf)
-        * [Learning module summary: What is the Internet of Things? 10 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/08_Learning%20module%20summary_%20What%20is%20the%20Internet%20of%20Things_%20_%20Coursera.pdf)
+        * [Overview of Internet of Things 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/05_Overview_IoT6min.mp4)
+        * [Quiz: IoT Quiz5 questions (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/Week01_Quiz_Coursera_100Passed.pdf)
+        * [Learning module summary: What is the Internet of Things? 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/08_Learning%20module%20summary_%20What%20is%20the%20Internet%20of%20Things_%20_%20Coursera.pdf)
 
 ## Week 02. Rapid application development in the cloud
  * An Internet of Things solution usually requires a back-end server to receive and process data coming from sensors. Cloud platforms allow new solutions to be created and deployed very rapidly without having to worry about how to host the application. This series of lessons introduces you to a cloud based Platform as a Service and an open source rapid application development environment called NodeRED.
     * Introduction to a Platform as a Service - IBM Bluemix
-        * Introduction to IBM Bluemix - Agenda 27 sec
-        * Overview of Cloud Computing 3 min
-        * What is IBM Bluemix? 4 min
-        * A tour of IBM Bluemix 8 min
-        * IBM Bluemix Summary 35 sec
-        * Learning module summary: Introduction to Platform as a Service - IBM Bluemix 10 min
+        * [Introduction to IBM Bluemix - Agenda 27 sec (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/06_IntroductionToIBMBluemixAgenda_27sec.mp4)
+        * [Overview of Cloud Computing 3 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/07_OverviewOfCloudComputing_3min.mp4)
+        * [What is IBM Bluemix? 4 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/08_WhatIsIBMBluemix_4min.mp4)
+        * [A tour of IBM Bluemix 8 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/09_A%20tour%20of%20IBM%20Bluemix8min.mp4)
+        * [IBM Bluemix Summary 35 sec (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/10_IBM%20Bluemix%20Summary_35sec.mp4)
+        * [Learning module summary: Introduction to Platform as a Service - IBM Bluemix 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/11_Learning%20module%20summary-%20Introduction%20to%20Platform%20as%20a%20Service%20-%20IBM%20Bluemix_10%20min.pdf)
 
     * Rapid application development for Internet of Things
-        * Introduction to NodeRED - 111 min
-        * Deploy NodeRED to Bluemix using a Boilerplate - step by step 10 min
-        * Introduction to NodeRED - 27 min
-        * Adding a new node - step by step 10 min
-        * Learning module summary: Rapid application development for Internet of Things 10 min
+        * [Introduction to NodeRED-1 11 min (mp4)]()
+        * [Deploy NodeRED to Bluemix using a Boilerplate - step by step 10 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/12_Deploy%20NodeRED%20to%20Bluemix%20using%20a%20Boilerplate_step%20by%20step_10min.mp4)
+        * [Introduction to NodeRED-2 7 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/13_Introduction%20to%20NodeRED_7min.mp4)
+        * [Adding a new node - step by step 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/14_Adding%20a%20new%20node%20-%20step%20by%20step%2010%20min.pdf)
+        * [Learning module summary: Rapid application development for Internet of Things 10 min (pdf)]
     
     * NodeRED function node
         * The NodeRED Function node part 16 min
