@@ -93,8 +93,10 @@
 ## Week 04. Lower level programming for the Internet of Things
 * Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
     * Watson IoT APIs
+    
           * IoT platform APIs 3 min
                 * [Official GitHub: iot-python](https://github.com/ibm-watson-iot/iot-python)
+                
           * SenseHAT python API 4 min
           * Programming Assignment: SenseHAT python API 3h
           * Learning module summary: Watson IoT APIs 10 min
