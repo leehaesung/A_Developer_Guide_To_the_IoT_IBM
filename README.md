@@ -1,7 +1,7 @@
 # A developer's guide to the IoT by IBM
 
 * [About this Course](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/01_Lecture_Notes/README.md)
-* [Click Coursera (A developer's guide to the Internet of Things (IoT) by IBM)](https://www.coursera.org/learn/developer-iot/home/welcome)
+* [Visit the Coursera (A developer's guide to the Internet of Things (IoT) by IBM)](https://www.coursera.org/learn/developer-iot/home/welcome)
 
 ![IBM Watson IoT](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/01_Lecture_Notes/ImageFiles/IBM_Watson_IoT.png)
 
