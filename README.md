@@ -55,7 +55,7 @@
         * [Template node sample flow 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/21_Template%20node%20sample%20flow_10min.pdf)
         * [NodeRED Additional node part 3 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/19_NodeRED%20Additional%20node%20part3_6min.mp4)
         * [Controlling a node using input data 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/22_Controlling%20a%20node%20using%20input%20data_10min.pdf)
-        * [NodeRED Additional node part 4 6 min](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/20_NodeRED%20Additional%20node%20part4_6min.mp4)
+        * [NodeRED Additional node part 4 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/20_NodeRED%20Additional%20node%20part4_6min.mp4)
         * Programming Assignment: NodeRED application3h
         * Learning module summary: Additional NodeRED nodes 10 min
 
