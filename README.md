@@ -136,6 +136,7 @@
 * [Raspberry Pi: Find IoT projects at Raspberry Pi.](https://www.raspberrypi.org/?s=IoT&cm_mc_uid=06583862420914669164974&cm_mc_sid_50200000=1469855535)
 
 ## Useful GiTHub of using the IBM BlueMix with Raspberry Pi
+* [GitHub: Official iot-python](https://github.com/ibm-watson-iot/iot-python)
 * [Serach 'IBM IoT Raspberry Pi' in GitHub](https://github.com/search?utf8=%E2%9C%93&q=IBM+IoT+Raspberry+Pi&type=Repositories&ref=searchresults)
 * [Connecting Raspberry Pi devices to the IBM Internet of Things Foundation](https://github.com/ibm-messaging/iot-raspberrypi)
 * [IoT Demo: Use the IBM Watson Speech to Text service to make a Raspberry Pi speak the current time and weather](https://github.com/watson-developer-cloud/raspberry-pi-time-weather-demo)
