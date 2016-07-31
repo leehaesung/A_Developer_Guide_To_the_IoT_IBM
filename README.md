@@ -92,11 +92,31 @@
 ## Week 04. Lower level programming for the Internet of Things
 * Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
     * Watson IoT APIs
+          * IoT platform APIs 3 min
+          * SenseHAT python API 4 min
+          * Programming Assignment: SenseHAT python API 3h
+          * Learning module summary: Watson IoT APIs 10 min
+
     * MQTT
+          * MQTT 5 min
+          * Quiz: MQTT in Watson IoT Platform 5 questions
+          * MQTT Exercise 10 min
+          * You reached the end of this learning module. You are now able to: 10 min
           * IoT 101 Network Diagram 
            ![IOT-101-Network-Diagram](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/01_Lecture_Notes/ImageFiles/IOT-101-Network-Diagram-FINAL-01.png)
+           
     * Deploying Applications to Bluemix
-
+          * Deploying an application to Bluemix part 16 min
+          * Application development for Bluemix - basic server step by step 10 min
+          * Deploying an application to Bluemix part 26 min
+          * Application development for Bluemix - deploy to Bluemix step by step 10 min
+          * Deploying an application to Bluemix part 36 min
+          * Application development for Bluemix - accessing services step by step 10 min
+          * Programming Assignment: Using the IoT APIs in a Bluemix application 3h
+          * Learning module summary: Deploying Applications to Bluemix 10 min
+  
+    * Wrap up
+          * Course summary 2 min
 
 
 ## Useful Web Site
