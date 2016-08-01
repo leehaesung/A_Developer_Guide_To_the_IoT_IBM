@@ -36,6 +36,8 @@
               ![CloudComputing.png](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/01_Lecture_Notes/ImageFiles/CloudComputing.png)
               
         * [What is IBM Bluemix? 4 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/08_WhatIsIBMBluemix_4min.mp4)
+              ![IBM_Bluemix.png](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/01_Lecture_Notes/ImageFiles/IBM_Bluemix.png)
+              ![IBM_Bluemix_DevOps_Services.png](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/01_Lecture_Notes/ImageFiles/IBM_Bluemix_DevOps_Services.png)
         * [A tour of IBM Bluemix 8 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/09_A%20tour%20of%20IBM%20Bluemix8min.mp4)
         * [IBM Bluemix Summary 35 sec (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/10_IBM%20Bluemix%20Summary_35sec.mp4)
         * [Learning module summary: Introduction to Platform as a Service - IBM Bluemix 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/11_Learning%20module%20summary-%20Introduction%20to%20Platform%20as%20a%20Service%20-%20IBM%20Bluemix_10%20min.pdf)
