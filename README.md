@@ -44,6 +44,7 @@
 
     * Rapid application development for Internet of Things
         * [Introduction to NodeRED-1 11 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/06_IntroductionToIBMBluemixAgenda_27sec.mp4)
+              ![01_NodeRED.png](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/01_Lecture_Notes/ImageFiles/01_NodeRED.png)
         * [Deploy NodeRED to Bluemix using a Boilerplate - step by step 10 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/12_Deploy%20NodeRED%20to%20Bluemix%20using%20a%20Boilerplate_step%20by%20step_10min.mp4)
         * [Introduction to NodeRED-2 7 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/13_Introduction%20to%20NodeRED_7min.mp4)
         * [Adding a new node - step by step 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/14_Adding%20a%20new%20node%20-%20step%20by%20step%2010%20min.pdf)
