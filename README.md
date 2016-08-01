@@ -133,6 +133,7 @@
 
 
 ## Useful Web Site
+* [Watson IoT Platform Documentation](https://console.ng.bluemix.net/docs/services/IoT/index.html)
 * [YouTube: How It Works: Internet of Things](https://youtu.be/QSIPNhOiMoE)
 * [Watson IoT Academy](https://www.iot-academy.info/)
 * [To learn JavaScript](http://www.w3schools.com/js/)
