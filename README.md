@@ -33,6 +33,7 @@
               1. IaaS(Infrastructure as a Service)
               2. PaaS(Platform as a Service)
               3. SaaS(Software as a Service)
+              ![CloudComputing.png](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/01_Lecture_Notes/ImageFiles/CloudComputing.png)
               
         * [What is IBM Bluemix? 4 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/08_WhatIsIBMBluemix_4min.mp4)
         * [A tour of IBM Bluemix 8 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/09_A%20tour%20of%20IBM%20Bluemix8min.mp4)
