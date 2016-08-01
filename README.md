@@ -30,10 +30,10 @@
               3. A tour of IBM Bluemix
               
         * [Overview of Cloud Computing 3 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/07_OverviewOfCloudComputing_3min.mp4)
-            * Cloud Computing
-            1. IaaS(Infrastructure as a Service)
-            2. PaaS(Platform as a Service)
-            3. SaaS(Software as a Service)
+              1. IaaS(Infrastructure as a Service)
+              2. PaaS(Platform as a Service)
+              3. SaaS(Software as a Service)
+              
         * [What is IBM Bluemix? 4 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/08_WhatIsIBMBluemix_4min.mp4)
         * [A tour of IBM Bluemix 8 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/09_A%20tour%20of%20IBM%20Bluemix8min.mp4)
         * [IBM Bluemix Summary 35 sec (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/10_IBM%20Bluemix%20Summary_35sec.mp4)
