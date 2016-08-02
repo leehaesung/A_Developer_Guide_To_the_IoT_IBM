@@ -44,6 +44,10 @@
 
     * Rapid application development for Internet of Things
         * [Introduction to NodeRED-1 11 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/06_IntroductionToIBMBluemixAgenda_27sec.mp4)
+              * Node-RED is a visual tool for wiring together hardware devices, APIs and online services – for wiring the [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things). Node-RED provides a browser-based flow editor that makes it easy to wire together flows using the wide range nodes in the palette. Flows can be then deployed to the runtime in a single-click. JavaScript functions can be created within the editor using the a rich text editor. A built-in library allows you to save useful functions, templates or flows for re-use.
+              The light-weight runtime is built on [Node.js](https://en.wikipedia.org/wiki/Node.js), taking full advantage of its event-driven, non-blocking model. This makes it ideal to run at the edge of the network on low-cost hardware such as the [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) as well as in the cloud. With over 120,000 modules in Node's package repository, it is easy to extend the range of palette nodes to add new capabilities. 
+              The flows created in Node-RED are stored using [JSON](https://en.wikipedia.org/wiki/JSON) which can be easily imported and exported for sharing with others. An online flow library allows you to share your best flows with the world.
+              
               ![01_NodeRED.png](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/01_Lecture_Notes/ImageFiles/01_NodeRED.png)
         * [Deploy NodeRED to Bluemix using a Boilerplate - step by step 10 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/12_Deploy%20NodeRED%20to%20Bluemix%20using%20a%20Boilerplate_step%20by%20step_10min.mp4)
         * [Introduction to NodeRED-2 7 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/13_Introduction%20to%20NodeRED_7min.mp4)
