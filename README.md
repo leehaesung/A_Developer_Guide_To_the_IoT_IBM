@@ -48,7 +48,7 @@
               The light-weight runtime is built on [Node.js](https://en.wikipedia.org/wiki/Node.js), taking full advantage of its event-driven, non-blocking model. This makes it ideal to run at the edge of the network on low-cost hardware such as the [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) as well as in the cloud. With over 120,000 modules in Node's package repository, it is easy to extend the range of palette nodes to add new capabilities. 
               The flows created in Node-RED are stored using [JSON](https://en.wikipedia.org/wiki/JSON) which can be easily imported and exported for sharing with others. An online flow library allows you to share your best flows with the world.
               
-              ![01_NodeRED.png](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/01_Lecture_Notes/ImageFiles/01_NodeRED.png)
+              ![NodeRED_terms.png](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/01_Lecture_Notes/ImageFiles/NodeRED_terms.png)
         * [Deploy NodeRED to Bluemix using a Boilerplate - step by step 10 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/12_Deploy%20NodeRED%20to%20Bluemix%20using%20a%20Boilerplate_step%20by%20step_10min.mp4)
         * [Introduction to NodeRED-2 7 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/13_Introduction%20to%20NodeRED_7min.mp4)
         * [Adding a new node - step by step 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/14_Adding%20a%20new%20node%20-%20step%20by%20step%2010%20min.pdf)
