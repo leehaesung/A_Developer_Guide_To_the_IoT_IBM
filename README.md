@@ -116,7 +116,7 @@
           * Learning module summary: Watson IoT APIs 10 min
 
     * MQTT
-          * MQTT 5 min
+          * MQTT 5 min  “MQTT is a machine-to-machine (M2M)/”Internet of Things” connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport.” 
           * Quiz: MQTT in Watson IoT Platform 5 questions
           * MQTT Exercise 10 min
           * You reached the end of this learning module. You are now able to: 10 min
