@@ -168,6 +168,10 @@
 * [tsl2561 light sensor on a raspberry pi feeding sensordata to IBM IoT platform written in C](https://github.com/pmvester/tsl2561)
 * [A Tutorial how to use a bluetooth device on a Raspberry PI to send proximity data to IBM Watson IoT Platform to let a car switch an appliance on and off](https://github.com/joetriskaide/car-meets-home)
 
-    
+## Useful NPM Site
+* [Installing Node.js and updating npm](https://docs.npmjs.com/getting-started/installing-node)
+* [Installing npm packages locally
+
+](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
     
   < END >  
