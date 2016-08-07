@@ -171,5 +171,9 @@
 ## Useful NPM Site
 * [Installing Node.js and updating npm](https://docs.npmjs.com/getting-started/installing-node)
 * [Installing npm packages locally](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
+
+## Useful Blogs
+* [knolleary
+knolleary is awesome!](http://knolleary.net/projects/)
     
   < END >  
