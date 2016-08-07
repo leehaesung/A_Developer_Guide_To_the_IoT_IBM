@@ -138,6 +138,7 @@
 
 
 ## Useful Web Site
+* [What is npm?](https://docs.npmjs.com/getting-started/what-is-npm) NPM makes it easy for JavaScript developers to share and reuse code, and it makes it easy to update the code that you're sharing.
 * [Watson IoT Platform Documentation](https://console.ng.bluemix.net/docs/services/IoT/index.html)
 * [YouTube: How It Works: Internet of Things](https://youtu.be/QSIPNhOiMoE)
 * [Watson IoT Academy](https://www.iot-academy.info/)
