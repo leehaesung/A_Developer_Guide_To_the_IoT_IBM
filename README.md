@@ -170,8 +170,6 @@
 
 ## Useful NPM Site
 * [Installing Node.js and updating npm](https://docs.npmjs.com/getting-started/installing-node)
-* [Installing npm packages locally
-
-](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
+* [Installing npm packages locally](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
     
   < END >  
