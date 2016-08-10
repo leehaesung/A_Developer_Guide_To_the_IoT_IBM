@@ -153,6 +153,8 @@
 * [SenseHAT Python API](http://pythonhosted.org/sense-hat/)
 * [IoT on Raspberry Pi By IBM](http://www.ibm.com/internet-of-things/ecosystem/devices/raspberry-pi/)
 * [Raspberry Pi: Find IoT projects at Raspberry Pi.](https://www.raspberrypi.org/?s=IoT&cm_mc_uid=06583862420914669164974&cm_mc_sid_50200000=1469855535)
+* [MQTT Connectivity for Gateways
+(IBM)](https://docs.internetofthings.ibmcloud.com/gateways/mqtt.html)
 
 ## Useful GiTHub of using the IBM BlueMix with Raspberry Pi
 * [GitHub: Official iot-python](https://github.com/ibm-watson-iot/iot-python)
@@ -167,6 +169,7 @@
 ](https://github.com/juanjordaan/courseraIoT)
 * [tsl2561 light sensor on a raspberry pi feeding sensordata to IBM IoT platform written in C](https://github.com/pmvester/tsl2561)
 * [A Tutorial how to use a bluetooth device on a Raspberry PI to send proximity data to IBM Watson IoT Platform to let a car switch an appliance on and off](https://github.com/joetriskaide/car-meets-home)
+* [MQTT at GitHub](https://github.com/mqtt/mqtt.github.io/wiki)
 
 ## Useful NPM Site
 * [Installing Node.js and updating npm](https://docs.npmjs.com/getting-started/installing-node)
