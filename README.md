@@ -157,6 +157,7 @@
 * [Raspberry Pi: Find IoT projects at Raspberry Pi.](https://www.raspberrypi.org/?s=IoT&cm_mc_uid=06583862420914669164974&cm_mc_sid_50200000=1469855535)
 * [MQTT Connectivity for Gateways
 (IBM)](https://docs.internetofthings.ibmcloud.com/gateways/mqtt.html)
+* [raspberry-pi-tightvnc-server](http://raspberrypihelp.net/raspberry-pi-tightvnc-server/)
 
 ## Useful GiTHub of using the IBM BlueMix with Raspberry Pi
 * [GitHub: Official iot-python](https://github.com/ibm-watson-iot/iot-python)
