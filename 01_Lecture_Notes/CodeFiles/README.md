@@ -38,7 +38,40 @@
 
 ***
 
+* Web - (1)
+```````````````````````````````````````````````````
+[{"id":"7ef2a3b4.965c6c","type":"http in","z":"fd8b5730.ad96f8","name":"/test","url":"/test","method":"get","swaggerDoc":"","x":170.00000762939453,"y":180,"wires":[["88fdb43a.9b6e18"]]},{"id":"88fdb43a.9b6e18","type":"function","z":"fd8b5730.ad96f8","name":"function","func":"/* Test 01 */\n//return { \"payload\" : \"Hello Coursera\" };\n// You will get (\"No response object\").\n// So, this is not working on the web.\n\n\n/* Test 02  */\nmsg.payload = \"Hello Stephen\";\nreturn msg;\n// So, this is working on the web.","outputs":1,"noerr":0,"x":358.00000762939453,"y":180,"wires":[["3e75cdd2.cab1e2"]]},{"id":"3e75cdd2.cab1e2","type":"http response","z":"fd8b5730.ad96f8","name":"test","x":555.9999771118164,"y":180,"wires":[]}]
+```````````````````````````````````````````````````
 
+* web - (2)
+```````````````````````````````````````````````````
+[{"id":"b0c3f86a.278208","type":"template","z":"fd8b5730.ad96f8","name":"format html page","field":"payload","fieldType":"msg","format":"handlebars","syntax":"mustache","template":"<h1>Drinks available on : {{payload.day}}</h1>\n\n<ul>\n{{#payload.drinks}}\n<li>{{drink}}</li>    \n{{/payload.drinks}}\n</ul>\n\n<h3>Specials:</h3> \n<hr>\n<ul>\n{{^payload.specials}}\nNone today, sorry      \n{{/payload.specials}}\n\n{{#payload.specials}}\n<li>{{drink}}</li>\n{{/payload.specials}}\n</ul>","x":530,"y":380,"wires":[["e3db6dd2.464e9"]]},{"id":"ea682cbc.ccf68","type":"function","z":"fd8b5730.ad96f8","name":"Drinks","func":"msg.payload =   \n         {'day':'Monday',\n          'drinks':[{'drink': 'coffee'}, \n                    {'drink': 'tea'}, \n                    {'drink': 'orange juice'}]\n         };\nreturn msg;","outputs":1,"noerr":0,"x":330,"y":360,"wires":[["b0c3f86a.278208"]]},{"id":"a5bf2762.e254c8","type":"function","z":"fd8b5730.ad96f8","name":"Specials","func":"msg.payload = \n         {'day':'Monday',\n          'drinks':[{'drink': 'coffee'}, \n                    {'drink': 'tea'}, \n                    {'drink': 'orange juice'}],\n          'specials':[{'drink': 'hot chocolate'}, \n                      {'drink': 'espresso'}]\n         };\nreturn msg;","outputs":1,"noerr":0,"x":340,"y":400,"wires":[["b0c3f86a.278208"]]},{"id":"62bf888e.ceedc8","type":"http in","z":"fd8b5730.ad96f8","name":"/menu","url":"/menu","method":"get","swaggerDoc":"","x":170,"y":360,"wires":[["ea682cbc.ccf68"]]},{"id":"9dfe7bc3.42ec18","type":"http response","z":"fd8b5730.ad96f8","name":"","x":892.9999771118164,"y":380,"wires":[]},{"id":"24dfc2d4.f6c3be","type":"http in","z":"fd8b5730.ad96f8","name":"/specials","url":"/specials","method":"get","swaggerDoc":"","x":180,"y":400,"wires":[["a5bf2762.e254c8"]]},{"id":"e3db6dd2.464e9","type":"function","z":"fd8b5730.ad96f8","name":"setHTTPheader","func":"// If sending JSON data the content type is:\n//msg.headers={\"Content-Type\":\"application/json\"}\n\n// For HTML use the content type line below:\nmsg.headers={\"Content-Type\":\"text/html\"}\nreturn msg;","outputs":1,"noerr":0,"x":720,"y":380,"wires":[["9dfe7bc3.42ec18"]]}]
+```````````````````````````````````````````````````
+
+* web - (3)
+```````````````````````````````````````````````````
+[{"id":"1887fe4c.d20682","type":"random","z":"fd8b5730.ad96f8","name":"","low":"1","high":"10","inte":"true","x":340,"y":560,"wires":[["54f7418d.1997"]]},{"id":"9da4ca78.d43568","type":"http response","z":"fd8b5730.ad96f8","name":"Random01","x":670,"y":560,"wires":[]},{"id":"38e81024.597c3","type":"http in","z":"fd8b5730.ad96f8","name":"/random01","url":"/random01","method":"get","swaggerDoc":"","x":180,"y":560,"wires":[["1887fe4c.d20682"]]},{"id":"54f7418d.1997","type":"function","z":"fd8b5730.ad96f8","name":"function","func":"/* Test  */\n//msg.payload = \"Hello Random Test\";\n//return msg;\n// So, this is working on the web.\n\n/* Generating Random number */\nif(msg.payload < 5)\n{\n  a = msg.payload.number = \"Number \";\n  b = msg.payload;\n  c = msg.paylaod = \" is a low number\";\n\n  msg.payload = a + b + c;\n  \n  return msg;\n}\n\nelse if(msg.payload > 5)\n{\n  a = msg.payload.number = \"Number \";\n  b = msg.payload;\n  c = msg.paylaod = \" is a high number\";\n\n  msg.payload = a + b + c;\n  \n  return msg;\n}\n\nreturn null;","outputs":1,"noerr":0,"x":500,"y":560,"wires":[["9da4ca78.d43568"]]}]
+```````````````````````````````````````````````````
+
+* web - (4)
+```````````````````````````````````````````````````
+[{"id":"8bd9ff25.5f644","type":"random","z":"fd8b5730.ad96f8","name":"","low":"1","high":"10","inte":"true","x":340,"y":660,"wires":[["4c426409.d64dec"]]},{"id":"38abeffd.68278","type":"http response","z":"fd8b5730.ad96f8","name":"Random02","x":670,"y":660,"wires":[]},{"id":"7c25221d.f0a45c","type":"http in","z":"fd8b5730.ad96f8","name":"/random02","url":"/random02","method":"get","swaggerDoc":"","x":180,"y":660,"wires":[["8bd9ff25.5f644"]]},{"id":"4c426409.d64dec","type":"function","z":"fd8b5730.ad96f8","name":"function","func":"/* Generating Random number */\n// {\"random\" : number}\n{\n  a = msg.payload.number = \"random: \";\n  b = msg.payload;\n \n\n  msg.payload = a + b;\n  \n  return msg;\n}\n\n\nreturn null;","outputs":1,"noerr":0,"x":500,"y":660,"wires":[["38abeffd.68278"]]}]
+```````````````````````````````````````````````````
+
+* web - (5)
+```````````````````````````````````````````````````
+[{"id":"9fc9275a.846958","type":"random","z":"fd8b5730.ad96f8","name":"","low":"1","high":"10","inte":"true","x":340,"y":760,"wires":[["aa2b0d89.ed8c1"]]},{"id":"ba952ab5.c55578","type":"http response","z":"fd8b5730.ad96f8","name":"Random03","x":670,"y":760,"wires":[]},{"id":"afa7d6de.b67f88","type":"http in","z":"fd8b5730.ad96f8","name":"/random03","url":"/random03","method":"get","swaggerDoc":"","x":180,"y":760,"wires":[["9fc9275a.846958"]]},{"id":"aa2b0d89.ed8c1","type":"function","z":"fd8b5730.ad96f8","name":"function","func":"/* Generating Random number */\n// {\"random\" : number}\n\n  a = msg.payload.number = \"random: \";\n  b = msg.payload;\n \n\n  msg.payload = a + b;\n  \n  return msg;\n\n","outputs":1,"noerr":0,"x":500,"y":760,"wires":[["ba952ab5.c55578"]]}]
+```````````````````````````````````````````````````
+
+* web - (6)
+```````````````````````````````````````````````````
+[{"id":"d4b0637.22fa8a","type":"random","z":"fd8b5730.ad96f8","name":"","low":"1","high":"10","inte":"true","x":380,"y":940,"wires":[["365bc3b3.b57dbc"]]},{"id":"b1a6f1b5.2b62d","type":"http response","z":"fd8b5730.ad96f8","name":"Random04","x":830,"y":940,"wires":[]},{"id":"64e2b67a.ffcba8","type":"http in","z":"fd8b5730.ad96f8","name":"/random04","url":"/random04","method":"get","swaggerDoc":"","x":160,"y":940,"wires":[["d4b0637.22fa8a"]]},{"id":"365bc3b3.b57dbc","type":"function","z":"fd8b5730.ad96f8","name":"function","func":"/* Generating Random number */\n// {\"random\" : number}\n\n  a = '{\"random\" : number}';\n  b = msg.payload.number;\n \n\n  msg.payload = a + b;\n\n  return msg;\n\n","outputs":1,"noerr":0,"x":600,"y":940,"wires":[["b1a6f1b5.2b62d"]]}]
+```````````````````````````````````````````````````
+
+* web - (7)
+```````````````````````````````````````````````````
+[{"id":"26891bae.50db54","type":"function","z":"fd8b5730.ad96f8","name":"Create JSON String in msg.payload","func":"//b = msg.payload.number;\n//number = msg.payload;\n\nmsg.payload = {\"random\" : number };\nreturn msg;","outputs":1,"noerr":0,"x":420,"y":1140,"wires":[["c644034.7bbb3"]]},{"id":"fc6d6e3a.7701d","type":"http in","z":"fd8b5730.ad96f8","name":"","url":"/random05","method":"get","swaggerDoc":"","x":160,"y":1140,"wires":[["26891bae.50db54"]]},{"id":"c644034.7bbb3","type":"http response","z":"fd8b5730.ad96f8","name":"output05","x":1080,"y":1140,"wires":[]}]
+```````````````````````````````````````````````````
 
 
 
