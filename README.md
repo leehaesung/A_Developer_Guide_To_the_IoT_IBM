@@ -158,6 +158,8 @@
 * [MQTT Connectivity for Gateways
 (IBM)](https://docs.internetofthings.ibmcloud.com/gateways/mqtt.html)
 * [raspberry-pi-tightvnc-server](http://raspberrypihelp.net/raspberry-pi-tightvnc-server/)
+* [IBM Watson: Using the Visual Recognition service to classify Dog Breeds!](https://youtu.be/FYZld6SSCnY)
+* [IBM Watson, Machine Learning: How to use the "Retrieve and Rank" service in IBM Bluemix!](https://youtu.be/xeMYyog6icQ)
 
 ## Useful GiTHub of using the IBM BlueMix with Raspberry Pi
 * [GitHub: Official iot-python](https://github.com/ibm-watson-iot/iot-python)
