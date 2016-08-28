@@ -82,7 +82,7 @@
           * [Setting up a Raspberry Pi and Raspberry Pi Sense Hat 9 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/22_Setting%20up%20a%20Raspberry%20Pi%20and%20Raspberry%20Pi%20Sense%20Hat_9min.mp4)
           * [Setting up your Raspberry Pi - step by step 10 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/25_Setting%20up%20your%20Raspberry%20Pi%20_step%20by%20step_10min.pdf)
           * [Extra resource – (for Windows) Install the Raspbian Jessie OS on an SD Card 1 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/23_Extra%20resource%20%E2%80%93%20(for%20Windows)%20Install%20the%20Raspbian%20Jessie%20OS%20on%20an%20SD%20Card_1min.mp4)
-          * Learning module summary: Raspberry Pi and SenseHAT 10 min
+          * [Learning module summary: Raspberry Pi and SenseHAT 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/26_Learning%20module%20summary_Raspberry%20Pi%20and%20SenseHAT_10min.pdf)
           * [Schematic of Raspberry Pi2](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/03_RaspberryPi2/Raspberry-Pi-B-Plus-V1.2-Schematics.pdf)
           * [Schematic of SenseHAT](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/04_Pi_Sense_HAT/Sense-HAT-V1_0.pdf) 
           
@@ -90,21 +90,21 @@
           * [NodeRED on Raspberry Pi part 15 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/24_NodeRED%20on%20Raspberry%20Pi%20part1_5min.mp4)
           * [NodeRED on Raspberry Pi part 2 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/25_NodeRED%20on%20RaspberryPi%20part2_6min.mp4)
           * [QuickStart flow - step by step 10 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/27_QuickStart%20flow_step%20by%20step_10min.pdf)
-          * Programming Assignment: QuickStart flow on Raspberry Pi 3h
-          * Learning module summary: Rapid Application Development with NodeRED on a Raspberry Pi 10 min
+          * [Programming Assignment: QuickStart flow on Raspberry Pi 3h (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/28_01_Programming%20Assignment_QuickStart%20flow%20on%20Raspberry%20Pi_3h.pdf)
+          * [Learning module summary: Rapid Application Development with NodeRED on a Raspberry Pi 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/29_Learning%20module%20summary_Rapid%20Application%20Development%20with%20NodeRED%20on%20a%20Raspberry%20Pi_10min.pdf)
 
     * Introduction to the Watson Internet of Things Platform
           * [Watson Internet of Things platform 5 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/26_Watson%20Internet%20of%20Things%20platform_5min.mp4)
           * [Devices, Applications and Gateways part 1 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/27_Devices%2C%20Applications%20and%20Gateways%20part1_6min.mp4)
           * [Devices, Applications and Gateways part 2 7 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/28_Devices%2C%20Applications%20and%20Gateways%20part2_7min.mp4)
           * Quiz: Using the NodeRED flow editor with your own Watson IoT platform 5 questions
-          * Learning module summary: Introduction to the Watson Internet of Things Platform 10 min
+          * [Learning module summary: Introduction to the Watson Internet of Things Platform 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/30_Learning%20module%20summary_Introduction%20to%20the%20Watson%20Internet%20of%20Things%20Platform_10min.pdf)
     
     * Controlling a device
           * [Sending commands to a device 4 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/29_Sending%20commands%20to%20a%20device_4min.mp4)
           * [SenseHAT and SenseHAT simulator nodes in NodeRED 3 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/30_SenseHAT%20and%20SenseHAT%20simulator%20nodes%20in%20NodeRED_3min.mp4)
-          * Programming Assignment: End-to-end scenario 3h
-          * Learning module summary: Controlling the device 10 min
+          * [Programming Assignment: End-to-end scenario 3h (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/31_01_Programming%20Assignment-End-to-end%20scenario_3h.pdf)
+          * [Learning module summary: Controlling the device 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/32_Learning%20module%20summary_Controlling%20the%20device_10min.pdf)
           
 
 ## Week 04. Lower level programming for the Internet of Things
@@ -113,8 +113,8 @@
           * [IoT platform APIs 3 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/31_IoT%20platform%20APIs_3min.mp4)
                 * [Official GitHub: iot-python](https://github.com/ibm-watson-iot/iot-python)
           * [SenseHAT python API 4 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/32_SenseHAT%20python%20API_4min.mp4)
-          * Programming Assignment: SenseHAT python API 3h
-          * Learning module summary: Watson IoT APIs 10 min
+          * [Programming Assignment: SenseHAT python API 3h (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/33_01_Programming%20Assignment_SenseHAT%20python%20API_3h.pdf)
+          * [Learning module summary: Watson IoT APIs 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/34_Learning%20module%20summary_Watson%20IoT%20APIs_10min.pdf)
 
     * MQTT
           * [MQTT 5 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/33_MQTT_5min.mp4)
@@ -122,23 +122,23 @@
           “MQTT is a machine-to-machine (M2M)/”Internet of Things” connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport.” 
           ````````````````````````````````````````````````````````````
           * Quiz: MQTT in Watson IoT Platform 5 questions
-          * MQTT Exercise 10 min
-          * You reached the end of this learning module. You are now able to: 10 min
+          * [MQTT Exercise 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/35_MQTT%20Exercise_10min.pdf)
+          * [You reached the end of this learning module. You are now able to: 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/36_MQTT%20Exercise_10min.pdf)
           * (Additional material) IoT 101 Network Diagram 
            ![IOT-101-Network-Diagram](https://github.com/leehaesung/A-developer-s-guide-to-the-IoT-by-IBM/blob/master/01_Lecture_Notes/ImageFiles/IOT-101-Network-Diagram-FINAL-01.png)
            
     * Deploying Applications to Bluemix
           * [Deploying an application to Bluemix part 1 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/34_Deploying%20an%20application%20to%20Bluemix%20part1_6min.mp4)
-          * Application development for Bluemix - basic server step by step 10 min
+          * [Application development for Bluemix - basic server step by step 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/37_Application%20development%20for%20Bluemix_basic%20server%20step%20by%20step_10min.pdf)
           * [Deploying an application to Bluemix part 2 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/35_Deploying%20an%20application%20to%20Bluemix_part2_6min.mp4)
-          * Application development for Bluemix - deploy to Bluemix step by step 10 min
+          * [Application development for Bluemix - deploy to Bluemix step by step 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/38_Application%20development%20for%20Bluemix_deploy%20to%20Bluemix%20step%20by%20step_10min.pdf)
           * [Deploying an application to Bluemix part 3 6 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/36_Deploying%20an%20application%20to%20Bluemix%20part3_6min.mp4)
-          * Application development for Bluemix - accessing services step by step 10 min
-          * Programming Assignment: Using the IoT APIs in a Bluemix application 3h
-          * Learning module summary: Deploying Applications to Bluemix 10 min
+          * [Application development for Bluemix - accessing services step by step 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/39_Application%20development%20for%20Bluemix_accessing%20services%20step%20by%20step_10min.pdf)
+          * [Programming Assignment: Using the IoT APIs in a Bluemix application 3h (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/40_01_Programming%20Assignment_Using%20the%20IoT%20APIs%20in%20a%20Bluemix%20application_3h.pdf)
+          * [Learning module summary: Deploying Applications to Bluemix 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/41_Learning%20module%20summary_Deploying%20Applications%20to%20Bluemix_10min.pdf)
   
     * Wrap up
-          * Course summary 2 min
+          * [Course summary 2 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/37_Course%20summary_2min.mp4)
 
 
 ## Useful Web Site
