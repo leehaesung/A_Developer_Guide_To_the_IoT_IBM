@@ -130,7 +130,7 @@
           
           * In pop sub communication, there is a broker in the middle on the sender, publishes data to the broker against a topic. So you can think of it almost like a bulletin board. Where the sender is not really aware of who is going to consume the data. The advantages of the coupling, the sender and receiver means that a message can be sent to multiple recipients without the sender needing to know who those recipients are. 
           
-          [MQTT01.png](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/01_Lecture_Notes/ImageFiles/MQTT01.png)
+          ![MQTT01.png](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/01_Lecture_Notes/ImageFiles/MQTT01.png)
           
           * Quiz: MQTT in Watson IoT Platform 5 questions
           * [MQTT Exercise 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/35_MQTT%20Exercise_10min.pdf)
