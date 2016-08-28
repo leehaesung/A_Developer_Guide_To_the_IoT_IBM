@@ -111,12 +111,12 @@
 * Up to now the course has used the NodeRED rapid application development environment. This unit looks at how to program for the Internet of Things platform using more traditional programming environments
     * Watson IoT APIs
           * [IoT platform APIs 3 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/31_IoT%20platform%20APIs_3min.mp4)
-                * [Official GitHub: iot-python](https://github.com/ibm-watson-iot/iot-python)
+          * [Official GitHub: iot-python](https://github.com/ibm-watson-iot/iot-python)
           * [SenseHAT python API 4 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/32_SenseHAT%20python%20API_4min.mp4)
           * [Programming Assignment: SenseHAT python API 3h (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/33_01_Programming%20Assignment_SenseHAT%20python%20API_3h.pdf)
           * [Learning module summary: Watson IoT APIs 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/34_Learning%20module%20summary_Watson%20IoT%20APIs_10min.pdf)
 
-    * MQTT
+    * MQTT(Message Queue Telemetry Transport)
           * [MQTT 5 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/33_MQTT_5min.mp4)
           
           ````````````````````````````````````````````````````````````
