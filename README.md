@@ -118,12 +118,11 @@
 
     * MQTT(Message Queue Telemetry Transport)
           * [MQTT 5 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/33_MQTT_5min.mp4)
-          
-          ````````````````````````````````````````````````````````````
-           “MQTT(Message Queue Telemetry Transport) is a machine-to-machine (M2M)/”Internet of Things” connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport.” 
-              - Small Code footprint
-              - Low Powe consumption
-              - Low network bandwidth
+            * “MQTT(Message Queue Telemetry Transport) is a machine-to-machine (M2M)/”Internet of Things” connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport.” 
+              * Small Code footprint
+              * Low Powe consumption
+              * Low network bandwidth
+              * A put-sub system
           ````````````````````````````````````````````````````````````
           * Quiz: MQTT in Watson IoT Platform 5 questions
           * [MQTT Exercise 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/35_MQTT%20Exercise_10min.pdf)
