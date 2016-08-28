@@ -123,7 +123,7 @@
               * Low Powe consumption
               * Low network bandwidth
               * A put-sub system
-          ````````````````````````````````````````````````````````````
+              
           * Quiz: MQTT in Watson IoT Platform 5 questions
           * [MQTT Exercise 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/35_MQTT%20Exercise_10min.pdf)
           * [You reached the end of this learning module. You are now able to: 10 min (pdf)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/36_MQTT%20Exercise_10min.pdf)
