@@ -197,6 +197,6 @@
 
 ## Useful Blogs
 * [knolleary
-knolleary is awesome!](http://knolleary.net/projects/)
-    
+[knolleary is awesome!](http://knolleary.net/projects/)
+[scargill's Tech Blog](http://tech.scargill.net/)    
   < END >  
