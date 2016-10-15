@@ -196,7 +196,6 @@
 * [Installing npm packages locally](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
 
 ## Useful Blogs
-* [knolleary
-[knolleary is awesome!](http://knolleary.net/projects/)
-[scargill's Tech Blog](http://tech.scargill.net/)    
+* [knolleary Blog](http://knolleary.net/projects/)
+* [scargill's Tech Blog](http://tech.scargill.net/)    
   < END >  
