@@ -120,7 +120,7 @@
           * [MQTT 5 min (mp4)](https://github.com/leehaesung/A_Developer_Guide_To_the_IoT_IBM/blob/master/02_Lecture_Videos/33_MQTT_5min.mp4)
             * “MQTT(Message Queue Telemetry Transport) is a machine-to-machine (M2M)/”Internet of Things” connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport.” 
               * Small Code footprint
-              * Low Powe consumption
+              * Low Power consumption
               * Low network bandwidth
               * A pub-sub system
               
@@ -175,6 +175,7 @@
 * [raspberry-pi-tightvnc-server](http://raspberrypihelp.net/raspberry-pi-tightvnc-server/)
 * [IBM Watson: Using the Visual Recognition service to classify Dog Breeds!](https://youtu.be/FYZld6SSCnY)
 * [IBM Watson, Machine Learning: How to use the "Retrieve and Rank" service in IBM Bluemix!](https://youtu.be/xeMYyog6icQ)
+* [Node RED Programming Guide to the IoT](http://noderedguide.com/)
 
 ## Useful GiTHub of using the IBM BlueMix with Raspberry Pi
 * [GitHub: Official iot-python](https://github.com/ibm-watson-iot/iot-python)
